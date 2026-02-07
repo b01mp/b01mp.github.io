@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: DRAM Controller for AMBA 3 APB Interface
+description: Implemented a DRAM Controller Architecture for APB Interface and Micron's MT48LC8M16A2 SDRAM
+img: assets/img/project-2.png
 importance: 2
 category: work
 giscus_comments: true
