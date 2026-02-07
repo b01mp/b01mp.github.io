@@ -31,9 +31,7 @@ HI!
 
 I’m Bhavesh — an Electronics Engineering student at VJTI Mumbai with an incurable curiosity for how things really work.
 
-You know that kid who keeps asking "But how?" — yeah, that’s me. That one question led me down the rabbit hole of digital logic, into the world of transistors, and straight into the fascinating universe of FPGAs, Computer Architecture, and Embedded Systems. Safe to say — I haven’t looked back since.
 
-Right now, I’m obsessed with bridging two explosive worlds: Artificial Intelligence and Computer Hardware. I believe the magic lies at the intersection — and I’m on a mission to build cool things where silicon meets intelligence.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
